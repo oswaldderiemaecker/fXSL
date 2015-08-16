@@ -3,5 +3,4 @@
 .project
 build
 vendor
-composer.lock
 .idea
